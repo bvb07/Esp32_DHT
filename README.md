@@ -1,1 +1,2 @@
-# Esp32_DHT
+- Measure temperature  by sensor DHT
+- Line update news
